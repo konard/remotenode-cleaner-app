@@ -1,0 +1,263 @@
+{
+  "@@locale": "en",
+  "appTitle": "Cleaner Pro",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home tab label"
+  },
+  "scan": "Scan",
+  "@scan": {
+    "description": "Scan tab label"
+  },
+  "results": "Results",
+  "@results": {
+    "description": "Results tab label"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings tab label"
+  },
+  "oneTabClean": "One-Tap Clean",
+  "@oneTabClean": {
+    "description": "One-tap clean button text"
+  },
+  "cleanNow": "Clean Now",
+  "@cleanNow": {
+    "description": "Clean now button text"
+  },
+  "scanning": "Scanning...",
+  "@scanning": {
+    "description": "Scanning status text"
+  },
+  "cleaning": "Cleaning...",
+  "@cleaning": {
+    "description": "Cleaning status text"
+  },
+  "storageAnalyzer": "Storage Analyzer",
+  "@storageAnalyzer": {
+    "description": "Storage analyzer section title"
+  },
+  "usedSpace": "Used Space",
+  "@usedSpace": {
+    "description": "Used space label"
+  },
+  "freeSpace": "Free Space",
+  "@freeSpace": {
+    "description": "Free space label"
+  },
+  "totalSpace": "Total Space",
+  "@totalSpace": {
+    "description": "Total space label"
+  },
+  "junkFiles": "Junk Files",
+  "@junkFiles": {
+    "description": "Junk files section title"
+  },
+  "tempFiles": "Temporary Files",
+  "@tempFiles": {
+    "description": "Temporary files label"
+  },
+  "thumbnails": "Thumbnails",
+  "@thumbnails": {
+    "description": "Thumbnails label"
+  },
+  "logFiles": "Log Files",
+  "@logFiles": {
+    "description": "Log files label"
+  },
+  "residualFiles": "Residual Files",
+  "@residualFiles": {
+    "description": "Residual files label"
+  },
+  "appCache": "App Cache",
+  "@appCache": {
+    "description": "App cache section title"
+  },
+  "ramBooster": "RAM Booster",
+  "@ramBooster": {
+    "description": "RAM booster section title"
+  },
+  "boostRam": "Boost RAM",
+  "@boostRam": {
+    "description": "Boost RAM button text"
+  },
+  "ramBefore": "Before",
+  "@ramBefore": {
+    "description": "RAM before label"
+  },
+  "ramAfter": "After",
+  "@ramAfter": {
+    "description": "RAM after label"
+  },
+  "ramFreed": "RAM Freed",
+  "@ramFreed": {
+    "description": "RAM freed label"
+  },
+  "duplicateFinder": "Duplicate Finder",
+  "@duplicateFinder": {
+    "description": "Duplicate finder section title"
+  },
+  "findDuplicates": "Find Duplicates",
+  "@findDuplicates": {
+    "description": "Find duplicates button text"
+  },
+  "duplicatePhotos": "Duplicate Photos",
+  "@duplicatePhotos": {
+    "description": "Duplicate photos label"
+  },
+  "duplicateVideos": "Duplicate Videos",
+  "@duplicateVideos": {
+    "description": "Duplicate videos label"
+  },
+  "batterySaver": "Battery Saver",
+  "@batterySaver": {
+    "description": "Battery saver section title"
+  },
+  "enableBatterySaver": "Enable Battery Saver",
+  "@enableBatterySaver": {
+    "description": "Enable battery saver button text"
+  },
+  "batterySaverTip": "Reduce background activity to save battery",
+  "@batterySaverTip": {
+    "description": "Battery saver tip text"
+  },
+  "cleanHistory": "Clean History",
+  "@cleanHistory": {
+    "description": "Clean history section title"
+  },
+  "totalFreed": "Total Freed",
+  "@totalFreed": {
+    "description": "Total freed space label"
+  },
+  "lastClean": "Last Clean",
+  "@lastClean": {
+    "description": "Last clean date label"
+  },
+  "cleanCount": "Clean Count",
+  "@cleanCount": {
+    "description": "Clean count label"
+  },
+  "darkMode": "Dark Mode",
+  "@darkMode": {
+    "description": "Dark mode setting label"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language setting label"
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language option"
+  },
+  "russian": "Russian",
+  "@russian": {
+    "description": "Russian language option"
+  },
+  "spanish": "Spanish",
+  "@spanish": {
+    "description": "Spanish language option"
+  },
+  "about": "About",
+  "@about": {
+    "description": "About section title"
+  },
+  "version": "Version",
+  "@version": {
+    "description": "Version label"
+  },
+  "permissions": "Permissions",
+  "@permissions": {
+    "description": "Permissions section title"
+  },
+  "grantPermissions": "Grant Permissions",
+  "@grantPermissions": {
+    "description": "Grant permissions button text"
+  },
+  "storagePermission": "Storage Permission",
+  "@storagePermission": {
+    "description": "Storage permission label"
+  },
+  "storagePermissionDesc": "Required to scan and clean files",
+  "@storagePermissionDesc": {
+    "description": "Storage permission description"
+  },
+  "complete": "Complete!",
+  "@complete": {
+    "description": "Complete status text"
+  },
+  "spaceFreed": "{size} freed",
+  "@spaceFreed": {
+    "description": "Space freed message",
+    "placeholders": {
+      "size": {
+        "type": "String",
+        "example": "1.5 GB"
+      }
+    }
+  },
+  "itemsFound": "{count} items found",
+  "@itemsFound": {
+    "description": "Items found message",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "42"
+      }
+    }
+  },
+  "deleteSelected": "Delete Selected",
+  "@deleteSelected": {
+    "description": "Delete selected button text"
+  },
+  "selectAll": "Select All",
+  "@selectAll": {
+    "description": "Select all button text"
+  },
+  "deselectAll": "Deselect All",
+  "@deselectAll": {
+    "description": "Deselect all button text"
+  },
+  "noJunkFound": "No junk files found",
+  "@noJunkFound": {
+    "description": "No junk found message"
+  },
+  "noDuplicatesFound": "No duplicates found",
+  "@noDuplicatesFound": {
+    "description": "No duplicates found message"
+  },
+  "cleaningComplete": "Cleaning Complete!",
+  "@cleaningComplete": {
+    "description": "Cleaning complete message"
+  },
+  "deviceOptimized": "Your device is now optimized",
+  "@deviceOptimized": {
+    "description": "Device optimized message"
+  },
+  "apps": "Apps",
+  "@apps": {
+    "description": "Apps category label"
+  },
+  "cache": "Cache",
+  "@cache": {
+    "description": "Cache category label"
+  },
+  "junk": "Junk",
+  "@junk": {
+    "description": "Junk category label"
+  },
+  "media": "Media",
+  "@media": {
+    "description": "Media category label"
+  },
+  "documents": "Documents",
+  "@documents": {
+    "description": "Documents category label"
+  },
+  "other": "Other",
+  "@other": {
+    "description": "Other category label"
+  }
+}
